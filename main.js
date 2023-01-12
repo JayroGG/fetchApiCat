@@ -8,3 +8,6 @@ fetch(URL)
         const img = document.querySelector('img')
         img.src = data[0].url          
     })
+
+let refresh = document.getElementById('refresh')
+refresh.addEventListener('mouseover', () => location.reload())
