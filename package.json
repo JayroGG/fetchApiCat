@@ -1,0 +1,16 @@
+{
+  "name": "fetchapicat",
+  "version": "1.0.0",
+  "description": "Fetch that consume a Cat API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "fetch"
+  ],
+  "author": "Jayro Gómez",
+  "license": "ISC"
+}
